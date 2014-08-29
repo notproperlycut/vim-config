@@ -2,3 +2,4 @@
 cd ${HOME}/.vim
 git pull
 git submodule update
+rm ${HOME}/.vimrc && ${HOME}/.vim/link
