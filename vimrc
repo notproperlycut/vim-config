@@ -6,3 +6,4 @@ filetype on
 filetype indent on
 filetype plugin on
 set sessionoptions-=options
+nnoremap Q <nop>
