@@ -1,9 +1,9 @@
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 execute pathogen#infect()
 set nocompatible
-syntax on
+syntax enable
 set background=dark
-" set background=light
+"set background=light
 colorscheme solarized
 filetype on
 filetype indent on
