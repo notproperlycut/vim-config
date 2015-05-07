@@ -7,3 +7,4 @@ filetype indent on
 filetype plugin on
 set sessionoptions-=options
 nnoremap Q <nop>
+set wildmode=list:longest,full
