@@ -22,3 +22,6 @@
 [submodule "bundle/vim-drawit"]
 	path = bundle/vim-drawit
 	url = https://github.com/vim-scripts/DrawIt.git
+[submodule "bundle/vim-numbertoggle"]
+	path = bundle/vim-numbertoggle
+	url = https://github.com/jeffkreeftmeijer/vim-numbertoggle.git
