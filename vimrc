@@ -21,11 +21,11 @@ Plug 'jeffkreeftmeijer/vim-numbertoggle'
 Plug 'ludovicchabant/vim-gutentags'
 let g:gutentags_cache_dir = '~/.tags_cache'
 
-Plug 'neomake/neomake'
-autocmd! BufWritePost * Neomake
-autocmd! BufReadPost * Neomake
+" Plug 'neomake/neomake'
+" autocmd! BufWritePost * Neomake
+" autocmd! BufReadPost * Neomake
 
-command Errors lopen
+" command Errors lopen
 
 " Add plugins to &runtimepath
 call plug#end()
