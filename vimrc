@@ -8,6 +8,14 @@ set sessionoptions-=options
 nnoremap Q <nop>
 set wildmode=list:longest,full
 
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
+set expandtab
+set autoindent  
+set smartindent
+set copyindent
+
 call plug#begin('~/.vim/plugged')
 
 " Make sure you use single quotes
